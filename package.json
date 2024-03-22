@@ -1,0 +1,28 @@
+{
+  "name": "xyed04-calculator-typescript",
+  "version": "1.0.2",
+  "description": " A simple calculator application implemented using TypeScript.",
+  "main": "new.js",
+  "type": "module",
+  "bin":  "new.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smohtashim/Typescript-calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "typescript"
+  ],
+  "author": "Syed Mohtashim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smohtashim/Typescript-calculator/issues"
+  },
+  "homepage": "https://github.com/smohtashim/Typescript-calculator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
